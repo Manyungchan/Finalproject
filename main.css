@@ -82,8 +82,22 @@ margin: 0px auto;
   top:20%;
   left:15%;
 }
-.portfolio-item {
-margin-top: 60px;
-padding: 40px;
+#Homepage{
+  position:absolute;
+  top:85%;
+  left:5%;
+}
+#Nextpage{
+  position:absolute;
+  top:90%;
+  left:85%;
+}
+#music{
+  position:fixed;
+  bottom: 1%;
+  right:10%;
+}
+
+
 
 }
