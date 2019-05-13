@@ -1,24 +1,21 @@
 body {
-  margin: 30px auto;
+  margin: 230px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
-  background-image: url(images/cafe.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+
 }
 
 h1 {
+  color: #B88FFF;
   padding: 20px 0px 10px 0px;
 }
 
-h3 {
-  color: #B88FFF;
-}
+
 a {
-color: #3971E2;
+color: #B88FFF;
 text-decoration: none;
 }
 
