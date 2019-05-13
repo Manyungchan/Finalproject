@@ -2,9 +2,9 @@ body {
   margin: 230px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
+  line-height: 1.7;
   padding: 30px 20px;
-  text-align: center;
+  text-align: right;
 
 }
 
@@ -12,6 +12,7 @@ h1 {
   color: #9DFFDD;
   padding: 50px 0px 10px 0px;
 }
+
 
 
 a {
@@ -26,8 +27,61 @@ display: block;
 margin: 0px auto;
 }
 
+#div1 {
+  position:absolute;
+  top:48%;
+  left:10%;
+}
+#div2  {
+  position:center;
+  top:50%;
+  left:49%;
+}
 
-
+#div3   {
+  position:absolute;
+  top:10;
+  left:66%;
+}
+#div4   {
+  position:absolute;
+  top:65%;
+  left:26%;
+}
+#div5   {
+  position:absolute;
+  top:15%;
+  left:3%;
+}
+#div6   {
+  position:absolute;
+  top:5%;
+  left:12%;
+}
+#div7   {
+  position:absolute;
+  top:9%;
+  left:22%;
+}
+#div8   {
+  position:absolute;
+  top:9%;
+  left:22%;
+}#div8   {
+  position:absolute;
+  top:9%;
+  left:22%;
+}
+#div9   {
+  position:absolute;
+  top:9%;
+  left:22%;
+}
+#div10   {
+  position:absolute;
+  top:20%;
+  left:15%;
+}
 .portfolio-item {
 margin-top: 60px;
 padding: 40px;
