@@ -11,13 +11,34 @@ body {
 h1 {
   color: #9DFFDD;
   padding: 50px 0px 10px 0px;
+    text-align: right;
+}
+h3{
+  color: white;
+  text-align: center;
+}
+h4{
+    color: black;
+    font-size: 15pt;
+    position:absolute;
+    left: 45%;
+    top: 20%;
+    text-align: center;
+  }
+p{
+  color: white;
+  font-size: 15pt;
+  position:absolute;
+  left: 45%;
+  top: 20%;
+  text-align: center;
 }
 
 
 
+}
 a {
-color: #B88FFF;
-text-decoration: none;
+color: ##C37AFF;
 }
 
 /* Centers images */
@@ -61,7 +82,7 @@ margin: 0px auto;
 #div7   {
   position:absolute;
   top:9%;
-  left:22%;
+  left:10%;
 }
 #div8   {
   position:absolute;
@@ -70,7 +91,7 @@ margin: 0px auto;
 }#div8   {
   position:absolute;
   top:9%;
-  left:22%;
+  left:18%;
 }
 #div9   {
   position:absolute;
