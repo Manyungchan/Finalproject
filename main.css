@@ -48,6 +48,13 @@ display: block;
 margin: 0px auto;
 }
 
+#div100{
+  position:absolute;
+  top:55%;
+  left:30%;
+
+}
+
 #div1 {
   position:absolute;
   top:48%;
